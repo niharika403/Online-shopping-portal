@@ -4,7 +4,7 @@
  1. onlineshop.html: This is the main page of the application. The user can Register, Login and browse through the catalog.
  2. On The Home page there are several Menues like : Mobiles, Fashion,Computers, Books,Electronics, online pay, Register, Login and it also contains Search bar.
  
-  ![image](https://user-images.githubusercontent.com/91595229/135233944-0aa18d8b-93e6-497c-97e0-15c9efe2c768.png)
+ ![image](https://user-images.githubusercontent.com/91595229/135454898-8beb85b6-54de-4c5c-ac32-77cb5c7bc276.png)
  ![image](https://user-images.githubusercontent.com/91595229/135265901-73c394c7-e836-4187-b8f9-1ad544cce273.png)
  ![image](https://user-images.githubusercontent.com/91595229/135269493-9cd7ace6-720b-4aae-b895-e4cba279fb2d.png)
  
